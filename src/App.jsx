@@ -24,7 +24,7 @@ const App=()=> {
       <Navbar />
       {/* <Cart pizzas={pizzas} /> */}
       {/* {!user ? <Register registar={handleRegister} /> :<> <Login user={user} /></>} */}
-      <Home/>
+      {/* <Home/> */}
       <Pizza/>
       <Footer />
     </>
